@@ -1,6 +1,6 @@
-# Hồ cá đại dương
+# Hồ cá
 
-Trang web mô phỏng một khung cảnh dưới đại dương với các loài sinh vật biển, thợ lặn và hiệu ứng bong bóng chuyển động. Dự án được xây dựng bằng HTML và CSS thuần.
+Trang web mô phỏng một khung cảnh dưới đại dương với các loài sinh vật biển, thợ lặn và hiệu ứng bong bóng chuyển động.
 
 ## Thông tin học phần
 
